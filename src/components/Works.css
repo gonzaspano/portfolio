@@ -1,0 +1,25 @@
+.works-container-title{
+    display: flex;
+    justify-content: start;
+    margin-left: 25px;
+}
+.work-container-examples {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.works-img{
+    height: 200px;
+    border-radius: 50px;
+    /* border: 2px solid rgba(0, 0, 0, 0.267); */
+}
+.work-info {
+    text-align: center;
+}
+.work-info-text {
+    font-weight: bold;
+}
+.work-container-each{
+    margin-bottom: 25px;
+    margin-left: 50px;
+}

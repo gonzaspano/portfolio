@@ -1,0 +1,11 @@
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+}
+.welcome-title {
+    margin-left: 25px;
+}
+.welcome-descript {
+    margin-left: 25px;
+    text-align: start;
+}

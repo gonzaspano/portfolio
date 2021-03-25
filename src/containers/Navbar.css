@@ -1,0 +1,21 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.title-navbar {
+    margin: 0px
+}
+.categories-container {
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+.category-text {
+    margin: 0px 15px 0px 15px;
+    color: black
+}
+.link-category{
+    text-decoration: none;
+}

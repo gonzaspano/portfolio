@@ -1,0 +1,21 @@
+.container-aboutme-all {
+    width: 100%;
+    display: flex;
+}
+.aboutme-container1 {
+    width: 50%;
+}
+.aboutme-imgprofile {
+    width: 100%;
+}
+.aboutme-container2 {
+    width: 50%;
+}
+.aboutme-subcontainer{
+    text-align:start ;
+    margin-left: 25px;
+
+}
+.aboutme-container2-title {
+    text-align: start;
+}
